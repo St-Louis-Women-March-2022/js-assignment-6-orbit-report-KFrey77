@@ -26,3 +26,8 @@ th, td {
 	margin: 5px 10px;
 	padding: 6px;
 }
+
+.ol-style {
+	color: rgb(182, 28, 28);
+	list-style-type: georgian;
+ }
